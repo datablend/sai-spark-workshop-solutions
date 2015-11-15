@@ -1,2 +1,2 @@
 # sai-spark-workshop
-SAI Spark Workshop
+Solutions for the SAI Spark Workshop
