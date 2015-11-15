@@ -7,7 +7,6 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.function.Function2;
 import org.apache.spark.api.java.function.PairFlatMapFunction;
 import org.apache.spark.api.java.function.PairFunction;
-import org.junit.Assert;
 import org.junit.Test;
 import scala.Tuple2;
 import java.io.Serializable;
